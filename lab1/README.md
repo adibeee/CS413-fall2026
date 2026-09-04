@@ -2,7 +2,7 @@
 
 ## Student information
 
-Name: **REPLACE THIS WITH YOUR NAME**
+Name: Adi Clermont
 
 In one sentence, what is the difference between Git and GitHub?
 
